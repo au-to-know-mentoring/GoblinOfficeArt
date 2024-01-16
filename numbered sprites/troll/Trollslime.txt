@@ -1,0 +1,6 @@
+idle/moving - 0 to 4
+distracted - 5 to 9
+death - 10 to 22
+block - 23 to 24
+
+

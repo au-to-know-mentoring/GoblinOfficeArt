@@ -1,0 +1,7 @@
+run - 0 to 3
+shoot - 4 to 7
+melee - 8 to 16
+death - 17 to 24
+block 25 to 27
+tired - 28 to 31
+eating food - 32 to 54
