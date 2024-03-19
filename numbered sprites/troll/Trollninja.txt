@@ -1,6 +1,7 @@
 running all directions - 0 to 3 - 4 to 5 - 6 to 9 - 10 to 11
 throw - 12 to 19
-kick - 20 to 27
-death - 28 to 38
-tired - 41 to 46
-vulnerable - 63 to 78
+kick - 20 to 30
+death - 31 to 41
+tired - 44 to 49
+vulnerable - 65 to 83
+extra - 84 to 93
