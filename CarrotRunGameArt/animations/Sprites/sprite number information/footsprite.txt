@@ -1,0 +1,4 @@
+0 to 12 - miss foot
+13 to 36 - don"t miss foot
+37 to 47 - just the foot
+48 to 74 - don"t miss foot death
