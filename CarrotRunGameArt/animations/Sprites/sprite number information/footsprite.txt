@@ -1,5 +1,5 @@
 0 to 12 - miss foot
 13 to 36 - don"t miss foot
 37 to 47 - just the foot
-48 to 72 - don"t miss foot death
-73 to 90 - reaction to shadow apear
+48 to 73 - don"t miss foot death
+74 to 90 - reaction to shadow apear
