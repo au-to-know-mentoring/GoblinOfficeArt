@@ -1,3 +1,4 @@
 0 - 12 - hitting can
 13 - 36 - getting squished
 37 - 74 - getting squished and dying
+75 - 90 - reaction time shadow
