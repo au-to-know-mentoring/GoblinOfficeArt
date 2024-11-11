@@ -1,0 +1,4 @@
+0 - 12 - reaction time shadow
+13 - 31 - eat the apple
+32 - 45 - squished by apple
+46 - 55 - death by apple
